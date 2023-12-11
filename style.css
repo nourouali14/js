@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+}
+
+.nav img{
+width: 100px;
+}
+
+.nav li {
+    list-style: none;
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: black;
+    color: white;
+    height: 80px;
+}
+
+.items img{
+    width: 300px;
+}
+.items{
+    border: solid;
+    width: fit-content;
+}
+
+.shop-prod{
+    display: flex;
+    justify-content: space-around;
+}
